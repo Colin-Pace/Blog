@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  margin-left: 100px;
+  margin-right: 100px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+  line-height: 200%;
+  font-size: 22px;
+}
+
+.lastParagraph {
+  margin-bottom: 200px;
+}
