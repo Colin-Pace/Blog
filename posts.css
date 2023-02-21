@@ -24,6 +24,21 @@ img {
   margin-bottom: 40px;
 }
 
+table, tr {
+  font-size: 22px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+th, td {
+  padding: 10px;
+}
+
+#bottomTable {
+  margin-top: 100px;
+  margin-bottom: 200px;
+}
+
 @media only screen and (max-width: 900px) {
   body {
     margin-left: 10px;
