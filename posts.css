@@ -39,6 +39,10 @@ th, td {
   margin-bottom: 200px;
 }
 
+#educationTable {
+  margin-top: 50px;
+}
+
 @media only screen and (max-width: 900px) {
   body {
     margin-left: 10px;
